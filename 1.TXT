@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HP and the Sorcerer's Stone</title><style type="text/css">body{background-color:black;color:white;font-family:lucida handwriting;font-size:x-large}
+</style>
+</head>
+<body>
+<h1>Harry Potter and the Sorcerer's Stone</h1>
+<h3>Intro:</h3>
+<p>Harry Potter and the Philosopher's Stone-The first novel of the series harry potter, a young wizard named Harry Potter 
+who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School 
+of Witchcraft and Wizardry. Harry makes close friends and a few enemies during his first year at the school and with the 
+help of his friends, Ron Weasley and Hermione Granger, he faces an attempted comeback by the dark wizard Lord Voldemort, 
+who killed Harry's parents, but failed to kill Harry when he was just 15 months old.</p><h3>Summary:</h3>
+
+<p>Harry Potter lives with his abusive aunt and uncle, Vernon and Petunia Dursley and their bullying son, Dudley. On Harry's eleventh birthday, a half-giant named Rubeus Hagrid personally delivers an acceptance letter to Hogwarts School of Witchcraft and Wizardry, revealing that Harry's parents, James and Lily Potter, were wizards. When Harry was one year old, an evil and powerful dark wizard, Lord Voldemort, murdered his parents. Harry survived Voldemort's killing curse that rebounded off his forehead and seemingly destroyed the Dark Lord, leaving a lightning bolt-shaped scar on his forehead. Unknown to Harry, he is famous in the wizarding world.</p>
+
+<p>Hagrid takes Harry to Diagon Alley, the hidden wizard commerce and retail section in London. Harry's parents have left him a fortune kept in Gringotts Wizarding Bank. Harry buys school supplies and a wand from Ollivander. The cores of Harry and Lord Voldemort's wands have feathers from the same phoenix bird, making them "brothers". Hagrid gives Harry an owl that he names Hedwig. A month later, Harry boards the Hogwarts Express at King's Cross railway station's secret Platform 9¾. On the journey to Hogwarts, Harry befriends fellow first-year Ronald Weasley and meets Hermione Granger, whom the two boys initially dislike. Harry runs afoul of first-year student, Draco Malfoy.</p>
+
+<p>At Hogwarts, a magical Sorting Hat sorts the first-years among four school Houses (Gryffindor, Slytherin, Hufflepuff and Ravenclaw) that best suit their personalities and talents. Draco joins Slytherin, known for dark wizards, while Harry, Ron, and Hermione are sorted into Gryffindor.</p>
+
+<P>Harry's broomstick flying ability earns him a place on the Gryffindor Quidditch team as the Seeker. Harry comes to dislike Potions master Severus Snape, who favours Slytherin while seeking to fail Harry. Malfoy tricks Harry and Ron into risking expulsion by leaving their common room after curfew. Hermione, unable to stop them, tags along. Realising Malfoy's ruse, they hide in a forbidden corridor and discover a gigantic three-headed dog guarding a trapdoor. Ron and Harry later save Hermione from a troll during the school's Halloween celebration and the three become best friends. Coupled with Snape's recent leg injury and suspicious behaviour, Harry, Hermione and Ron believe he is attempting to enter the trapdoor.</P>
+
+<p>Hermione warns the boys against investigating further and instead directs Harry's attention to his first Quidditch match. His broomstick's attempts to buck him off and Snape's strange behaviour during the match convinces Hermione he jinxed Harry's broom. Harry receives an anonymous Christmas gift – his father's invisibility cloak. Using it to explore the school, he discovers the Mirror of Erised, which shows what the viewer most desires. Harry sees his parents.</p>
+
+<p>The trio read a newspaper report about an attempted robbery at Gringotts Bank and the same vault from which Hagrid retrieved an item for the school's headmaster Albus Dumbledore on the same day. They suspect the object beneath the trapdoor is the philosopher's stone, which grants its user immortality and the ability to turn any metal into pure gold. A forest centaur named Firenze warns Harry that Voldemort is plotting to steal the stone to restore his body. When Dumbledore is lured from Hogwarts under false pretences, Harry, Hermione and Ron fear the theft is imminent and descend through the trapdoor.</p>
+
+<p>A series of obstacles force Ron and Hermione to remain behind while Harry proceeds. Harry encounters Professor Quirrell, the Defence Against the Dark Arts teacher, who reveals that he jinxed Harry's broom and let the troll into the school; Snape was protecting Harry. Voldemort, whose face is attached to the back of Quirrell's head, is using Quirrell to obtain the philosopher's stone. Harry is forced to stand before the Mirror of Erised. It recognises Harry's lack of greed for the stone and deposits it into his pocket. Quirrell attempts to seize the stone and kill Harry, but his flesh burns upon contact with him. Harry's scar begins hurting and he passes out.</p>
+
+<p>Harry awakens in the school's infirmary. Dumbledore explains Harry survived Voldemort because his mother sacrificing her life for him left a magical protective charm. Quirrell's hatred and greed caused him to burn upon contact with Harry; Voldemort abandoned him to die. Dumbledore reveals he sent Harry the invisibility cloak, while the philosopher's stone, that had been keeping the long-lived Nicolas Flamel alive, has been destroyed to prevent its being stolen. During the school's year-end feast, Gryffindor is awarded the House Cup. Harry returns to the Dursleys at Privet Drive until the next school year.</p>
+<a href="HP.html"><img src="HOME.png" heigth=30px width=30px></a>
+</body>
+</html>

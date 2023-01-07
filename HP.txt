@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<title>Harry Potter
+</title><style type="text/css">
+body{background-color:rgb(153, 0, 0)}
+ul{list-style-image:url('icon.png');list-style-position:inside;}
+a:link{color:black}
+a:visited{color:black}
+a:hover{color:red}
+a:active{color:green}
+</style>
+</head>
+<body><center><img src="font.png" width=500 height=200></center>
+<p><font face="Verdana" size=6 color="yellow">Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling.
+ The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are 
+students at Hogwarts School of Witchcraft and Wizardry.The main story arc concerns Harry's struggle against Lord Voldemort, a dark 
+wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles.</p>
+<p><font size=6 color="white"><b>The books of <font face="parry hotter" style="vertical-align:super;">Harry Potter</font> are:</b></font>
+<ul><a href="1.html" target="_blank">	<li>Harry Potter and the Sorcerer's Stone	</a>
+       <a href="2.html" target="_blank">	<li>Harry Potter and the Chamber of Secrets	</a>
+       
+</ul>
+</body>
+</html>
